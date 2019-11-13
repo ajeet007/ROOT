@@ -1,0 +1,84 @@
+
+
+    #password0 {
+      width: 127px;
+    }
+
+    #Text1 {
+        width: 196px;
+        background-color: #5776AC;
+    }
+
+    .style1 {
+        background-color: #5776AC;
+        width: 143px;
+    }
+
+    .style2 {
+        width: 103px;
+        background-color: #5776AC;
+    }
+
+    .style3 {
+        width: 103px;
+        height: 27px;
+        background-color: #5776AC;
+    }
+
+    .style4 {
+        height: 27px;
+        background-color: #5776AC;
+    }
+
+    .LodingStyl {
+        color: #ffffff;
+        font-family: Verdana;
+        font-size: 13pt;
+        font-weight: bold;
+        background-color: #5776AC;
+
+    }
+
+    .modalPopup {
+        background-color: #ffffff;
+        border-width: 3px;
+        border-style: solid;
+        border-color: Gray;
+        padding: 3px;
+        width: 250px;
+
+    }
+
+    #ImgUserPref {
+        width: 166px;
+    }
+
+    .style5 {
+        width: 473px;
+    }
+
+    .style6 {
+        width: 285px;
+        height: 253px;
+    }
+
+    .style7 {
+        height: 253px;
+    }
+
+    #btn_login {
+        width: 165px;
+        border: none 0px #ffffff;
+    }
+
+   /*auto complete css*/
+
+   .searchcontainer ul, .searchcontainer li {padding: 0; margin: 0;}
+#statesmod {position:relative;}
+.searchcontainer {position:relative; top:0.1em; }
+.searchcontainer .yui-ac-content {position:absolute;width:300px;border:1px solid #000000;background:white;overflow:hidden;z-index:9050;}
+.searchcontainer .yui-ac-shadow {position:absolute;margin:.3em;width:300px;background:white;z-index:9049;}
+.searchcontainer ul {padding:5px 0;width:300px;}
+.searchcontainer li {padding:0 5px;cursor:default;white-space:nowrap;}
+.searchcontainer li.yui-ac-highlight {background:#95B9C7;}
+.searchcontainer li.yui-ac-prehighlight {background:#E0EBF8;}
